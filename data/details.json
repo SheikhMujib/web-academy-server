@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "title": "Introduction to Web Development",
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/Web-Development.jpg",
+    "details": "What you will learn: Understand the technologies used in web development. Apply HTML document structure. Understand the HTML/CSS color model. Know the role of Javascript programming in web development. Create a basic Javascript program to collect data. Understand the next steps to learning professional web development skills."
+  },
+  {
+    "id": "02",
+    "title": "Modern React with Redux",
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/react_with_redux.png",
+    "details": "What you will learn: Understand the technologies used in web development. Apply HTML document structure. Understand the HTML/CSS color model. Know the role of Javascript programming in web development. Create a basic Javascript program to collect data. Understand the next steps to learning professional web development skills."
+  },
+  {
+    "id": "03",
+    "title": "Node with React: Fullstack Web Development",
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/Node-with-React.png",
+    "details": "What you will learn: Understand the technologies used in web development. Apply HTML document structure. Understand the HTML/CSS color model. Know the role of Javascript programming in web development. Create a basic Javascript program to collect data. Understand the next steps to learning professional web development skills."
+  },
+  {
+    "id": "04",
+    "title": "PHP for Beginners",
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/PHP.png",
+    "details": "What you will learn: Understand the technologies used in web development. Apply HTML document structure. Understand the HTML/CSS color model. Know the role of Javascript programming in web development. Create a basic Javascript program to collect data. Understand the next steps to learning professional web development skills."
+  },
+  {
+    "id": "05",
+    "title": "MongoDB - The Complete Developer's Guide 2022",
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/MongoDB.png",
+    "details": "What you will learn: Understand the technologies used in web development. Apply HTML document structure. Understand the HTML/CSS color model. Know the role of Javascript programming in web development. Create a basic Javascript program to collect data. Understand the next steps to learning professional web development skills."
+  },
+  {
+    "id": "06",
+    "title": "Learn OAuth 2.0 - Get started as an API Security Expert",
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/oauth2.png",
+    "details": "What you will learn: Understand the technologies used in web development. Apply HTML document structure. Understand the HTML/CSS color model. Know the role of Javascript programming in web development. Create a basic Javascript program to collect data. Understand the next steps to learning professional web development skills."
+  }
+]

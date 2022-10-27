@@ -2,31 +2,67 @@
   {
     "id": "01",
     "name": "Introduction to Web Development",
-    "img": "https://mujibmart.com/wp-content/uploads/2022/10/Web-Development.jpg"
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/Web-Development.jpg",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "student": 22607,
+    "author": {
+      "name": "Sheikh Mujib",
+      "img": "https://mujibmart.com/wp-content/uploads/2022/05/CEO-Mujib.jpg"
+    }
   },
   {
     "id": "02",
     "name": "Modern React with Redux",
-    "img": "https://mujibmart.com/wp-content/uploads/2022/10/react_with_redux.png"
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/react_with_redux.png",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "student": 22607,
+    "author": {
+      "name": "Sheikh Mujib",
+      "img": "https://mujibmart.com/wp-content/uploads/2022/05/CEO-Mujib.jpg"
+    }
   },
   {
     "id": "03",
     "name": "Node with React: Fullstack Web Development",
-    "img": "https://mujibmart.com/wp-content/uploads/2022/10/Node-with-React.png"
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/Node-with-React.png",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "student": 22607,
+    "author": {
+      "name": "Sheikh Mujib",
+      "img": "https://mujibmart.com/wp-content/uploads/2022/05/CEO-Mujib.jpg"
+    }
   },
   {
     "id": "04",
     "name": "PHP for Beginners",
-    "img": "https://mujibmart.com/wp-content/uploads/2022/10/PHP.png"
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/PHP.png",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "student": 22607,
+    "author": {
+      "name": "Sheikh Mujib",
+      "img": "https://mujibmart.com/wp-content/uploads/2022/05/CEO-Mujib.jpg"
+    }
   },
   {
     "id": "05",
     "name": "MongoDB - The Complete Developer's Guide 2022",
-    "img": "https://mujibmart.com/wp-content/uploads/2022/10/MongoDB.png"
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/MongoDB.png",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "student": 22607,
+    "author": {
+      "name": "Sheikh Mujib",
+      "img": "https://mujibmart.com/wp-content/uploads/2022/05/CEO-Mujib.jpg"
+    }
   },
   {
     "id": "06",
     "name": "Learn OAuth 2.0 - Get started as an API Security Expert",
-    "img": "https://mujibmart.com/wp-content/uploads/2022/10/oauth2.png"
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/oauth2.png",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "student": 22607,
+    "author": {
+      "name": "Sheikh Mujib",
+      "img": "https://mujibmart.com/wp-content/uploads/2022/05/CEO-Mujib.jpg"
+    }
   }
 ]
