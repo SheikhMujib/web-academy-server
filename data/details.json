@@ -3,36 +3,36 @@
     "id": "01",
     "title": "Introduction to Web Development",
     "img": "https://mujibmart.com/wp-content/uploads/2022/10/Web-Development.jpg",
-    "details": "What you will learn: Understand the technologies used in web development. Apply HTML document structure. Understand the HTML/CSS color model. Know the role of Javascript programming in web development. Create a basic Javascript program to collect data. Understand the next steps to learning professional web development skills."
+    "details": "Are you considering web development as a career? Do you simply want to learn to create your own web sites but don't know where to start? Does the world of programming fascinate you? Are you curious about 'what it takes' to be a web developer. Join master instructor, Mark Lassoff, for this fast paced, short course designed to introduce you to the world of web development. You'll be introduced to three of the primary languages used for web development."
   },
   {
     "id": "02",
     "title": "Modern React with Redux",
     "img": "https://mujibmart.com/wp-content/uploads/2022/10/react_with_redux.png",
-    "details": "What you will learn: Understand the technologies used in web development. Apply HTML document structure. Understand the HTML/CSS color model. Know the role of Javascript programming in web development. Create a basic Javascript program to collect data. Understand the next steps to learning professional web development skills."
+    "details": "Congratulations! You've found the most popular, most complete, and most up-to-date resource online for learning React and Redux! Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about. The difference between this course and all the others: you will understand the design patterns used by top companies to build massively popular web apps. React is the most popular Javascript library of the last five years, and the job market is still hotter than ever.  Companies large and small can't hire engineers who understand React and Redux fast enough, and salaries for engineers are at an all time high.  It's a great time to learn React!"
   },
   {
     "id": "03",
     "title": "Node with React: Fullstack Web Development",
     "img": "https://mujibmart.com/wp-content/uploads/2022/10/Node-with-React.png",
-    "details": "What you will learn: Understand the technologies used in web development. Apply HTML document structure. Understand the HTML/CSS color model. Know the role of Javascript programming in web development. Create a basic Javascript program to collect data. Understand the next steps to learning professional web development skills."
+    "details": "Go beyond the basics of React and Redux!  This course will teach you to combine the ultra-popular React, Redux, Express, and MongoDB technologies to build a fullstack web application. Advanced Deployment? You will learn it.  Billing/Payments? Included.  Handling Email? Of course! All of my courses are 'learn-by-doing': no boring endless lectures with Powerpoints, only live, interactive coding examples.  In this course we'll build one massive web application that profiles the advanced features of React, Redux, Express, and Mongo.  By putting each concept into a real app, you'll get a better idea of when to use each unique and powerful feature. Build a large feedback-collection app. This mega app will include the full gamut of features, including everything from authentication to email handling.  You'll learn how to build an app that can be used to send mass emails to a big list of users for the purpose of collecting feedback.  It's my goal to ensure you understand each feature we build into this app so you can apply them to your own personal or professional projects in the future."
   },
   {
     "id": "04",
     "title": "PHP for Beginners",
     "img": "https://mujibmart.com/wp-content/uploads/2022/10/PHP.png",
-    "details": "What you will learn: Understand the technologies used in web development. Apply HTML document structure. Understand the HTML/CSS color model. Know the role of Javascript programming in web development. Create a basic Javascript program to collect data. Understand the next steps to learning professional web development skills."
+    "details": "Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi, and ending the course by building a CMS system similar to WordPress, Joomla, or Drupal. Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world. Being a PHP developer can allow anyone to make really good money online and offline, developing dynamic applications.Knowing PHP will allow you to build web applications, websites or Content Management systems, like WordPress, Facebook, Twitter or even Google. There is no limit to what you can do with this knowledge. PHP is one of the most important web programming languages to learn, and knowing it, will give you SUPER POWERS in the web development world and job market place."
   },
   {
     "id": "05",
     "title": "MongoDB - The Complete Developer's Guide 2022",
     "img": "https://mujibmart.com/wp-content/uploads/2022/10/MongoDB.png",
-    "details": "What you will learn: Understand the technologies used in web development. Apply HTML document structure. Understand the HTML/CSS color model. Know the role of Javascript programming in web development. Create a basic Javascript program to collect data. Understand the next steps to learning professional web development skills."
+    "details": "Join this bestselling MongoDB course to learn all about this extremely popular database and query language from the ground up, in great detail and with many practical examples! MongoDB is one of the most important NoSQL databases you can work with these days. It's extremely popular and MongoDB developers are in high demand. No matter if you're building web applications, mobile applications or any other kind of application or if you're a data scientist - you'll need to work with data. Storing data, querying it efficiently and minimizing complexities whilst optimizing performance are crucial tasks. MongoDB makes working with data simple - it's built on a philosophy that prioritizes performance and efficiency. In this course, you'll learn all about MongoDB from scratch. No prior MongoDB or database experience is required!"
   },
   {
     "id": "06",
     "title": "Learn OAuth 2.0 - Get started as an API Security Expert",
     "img": "https://mujibmart.com/wp-content/uploads/2022/10/oauth2.png",
-    "details": "What you will learn: Understand the technologies used in web development. Apply HTML document structure. Understand the HTML/CSS color model. Know the role of Javascript programming in web development. Create a basic Javascript program to collect data. Understand the next steps to learning professional web development skills."
+    "details": "if you want to improve your market value as a Software Engineer and Security Expert. Imagine what could happen to your professional career if you could add API Security and OAuth skills to your CV! API Security experts and engineers who understand OAuth are in HIGH DEMAND, as companies expand their digital business. Plenty of opportunities are waiting for anyone who has the right skills. Do you want to write best-selling iPhone and Android apps? The most popular mobile apps integrate with popular social APIs of Google, LinkedIn, Facebook, Paypal, and many more. If this is a well-known fact, why do app developers not just do it? Many app developers are afraid of complicated OAuth integrations. Security is in fact the biggest hurdle for most mobile app developers. With the knowledge gained in this course, you can use the secret of the best app developers out there and finally integrate your app with social APIs."
   }
 ]
