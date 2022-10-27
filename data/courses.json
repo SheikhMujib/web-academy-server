@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "name": "Introduction to Web Development",
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/Web-Development.jpg"
+  },
+  {
+    "id": "02",
+    "name": "Modern React with Redux",
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/react_with_redux.png"
+  },
+  {
+    "id": "03",
+    "name": "Node with React: Fullstack Web Development",
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/Node-with-React.png"
+  },
+  {
+    "id": "04",
+    "name": "PHP for Beginners",
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/PHP.png"
+  },
+  {
+    "id": "05",
+    "name": "MongoDB - The Complete Developer's Guide 2022",
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/MongoDB.png"
+  },
+  {
+    "id": "06",
+    "name": "Learn OAuth 2.0 - Get started as an API Security Expert",
+    "img": "https://mujibmart.com/wp-content/uploads/2022/10/oauth2.png"
+  }
+]
